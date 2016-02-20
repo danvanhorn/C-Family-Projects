@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstdlib>
 
-//
 using namespace std;
 
 void getInput(string s, char array[]);
