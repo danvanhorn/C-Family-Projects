@@ -3,7 +3,12 @@
 This is a collection of projects that I've written in C and C++. Some are games that I spent way too much time perfecting. Some are data structure and ADT implementations, not as fun. Each of these projects are designed to be run in any terminal.
 <div>
 <h3>
+  <a href="https://github.com/danvanhorn/C-Family-Projects/tree/master/Blackjack"> BlackJack </a>
+</h3>
+  <p>Classic BlackJack, play with your friend against the dealer and win stacks of virtual cash! Written in C++ using and OOP approach.</p>
+<h3>
   <a href="https://github.com/danvanhorn/C-Family-Projects/tree/master/Hunt%20The%20Wumpus"> Hunt the Wumpus </a>
 </h3>
-  <p>This is my recreation of the classic game first writtem by Gregory Yob in 1973. Originally written in BASIC, my implentation uses C++ and OOP.</p>
+  <p>This is my recreation of the classic game first writtem by Gregory Yob in 1973. 
+  Originally written in BASIC, my implentation uses C++ and OOP.</p>
 </div>
