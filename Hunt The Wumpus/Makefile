@@ -1,5 +1,5 @@
 CC = g++
-exe = assn4
+exe = wumpus
 
 $(exe): game.o player.o room.o event.o bat.o wumpus.o gold.o pit.o driver.o errorcheck.o
 	$(CC) game.o player.o room.o event.o bat.o wumpus.o gold.o pit.o driver.o errorcheck.o -g -o $(exe)
